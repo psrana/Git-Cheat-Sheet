@@ -1,2 +1,2 @@
-# Git-Cheat-Sheet
-Git Cheat Sheet
+# Git Cheat Sheet
+- Explore "Git Cheat Sheet.pdf"
